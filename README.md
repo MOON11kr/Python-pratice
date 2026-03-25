@@ -1,7 +1,5 @@
 # 🔥 Python Strings 
 
-A structured collection of **Python string problems** commonly asked in coding interviews.  
-Organized by difficulty to help you build strong fundamentals and progress to advanced patterns.
 
 ---
 
